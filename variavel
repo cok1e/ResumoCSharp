@@ -1,0 +1,39 @@
+são tippos de variáveis que presisam colocar para funcionar o código,as váriaveis são:
+
+int;
+double;
+char;
+string;
+bool;
+
+cada uma dessas variáveis acima é responsavel por uma coisa especifica num código;
+
+int:
+A variavel int armazena inteiros (números inteiros), sem decimais, como 123 ou -123
+caso prescise colocar(ou tenha)números nos comandos.
+
+int.myNum = 15
+Console.WriteLine(myNum)
+
+double:
+Esse tipo de variavel armazena números de ponto flutuantes3, com decimais, como 19,99 ou -19,99
+usada também quando tem numero com ponto entre eles.
+
+char:
+Essa variavel armazena caracteres únicos, como 'a' ou 'B'. Os valores de caractere são cercados por aspas simples
+caso precise usar quando for um caractere
+
+string:
+armazena texto, como "Hello World". Os valores de string são cercados por aspas duplas
+é usada quando tem que digitar textos nos comandos
+
+bool:
+armazena valores com dois estados: verdadeiro ou falso
+
+exemplos de cada um juntos:
+
+int myNum = 5;
+double myDoubleNum = 5.99D;
+char myLetter = 'D';
+bool myBool = true;
+string myText = "Hello";
