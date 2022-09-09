@@ -1,0 +1,14 @@
+esse comando é usado para fazer um comentário que seia // e /**/
+cada um desses serve para fazer um comentário de linhas diferentes
+
+// isso é para fazer um comentário de linhas únicas
+
+//isso é um comentário
+console.writeLine("oi")
+
+/* isso é usado para fazer um comentário de multiplas linhas
+
+/*esse comentário é usado para fazer um comentário de mais de uma linha
+e colocando um comando para aparecer como diálogo como "Bom dia"*/
+
+console.writeLine("Bom dia")
